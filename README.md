@@ -1,5 +1,6 @@
 # zenzoo-webpage
 
+Download Node - https://nodejs.org/es/
 This app is made with Nuxtjs a framework for VueJS
 Also uses Pug to shorten the html & Vuetify for styling
 Typescript as based coding language
