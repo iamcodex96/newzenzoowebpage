@@ -1,0 +1,18 @@
+// Ref: https://github.com/nuxt-community/vuetify-module#customvariables
+//
+// The variables you want to modify
+// $font-size-root: 20px;
+
+
+@font-face{
+    font-family: 'Happyshaking';
+    src:url('~assets/fonts/Happyshaking-Regular.ttf') format("truetype");
+}
+@font-face{
+    font-family: 'RockoUltraFLF';
+    src:url('~assets/fonts/RockoUltraFLF-Bold.ttf') format("truetype");
+}
+@font-face{
+    font-family: 'Frankfurter';
+    src:url('~assets/fonts/Frankfurter_Medium_Std_Regular.otf') format("truetype");
+}
