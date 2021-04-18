@@ -30,3 +30,7 @@ Vuetify - https://vuetifyjs.com/en/
 
 PLEASE
 Once you download the project dont commit anything in this repository create your own
+
+If you need to contact me or ask me anything
+Please use these email and I will contact you back as quickly I could
+Carl.justinev@gmail.com
